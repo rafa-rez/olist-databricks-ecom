@@ -85,6 +85,6 @@ Este projeto foi inspirado em diversas análises de dados já realizadas sobre o
 
 ---
 📁 **Autor:** Rafael Rezende
-🔗 **LinkedIn:** [Seu LinkedIn](www.linkedin.com/in/rafaelrezende2004)  
-🛠️ **Repositório:** [GitHub](https://github.com/rafa-rez)  
+🔗 **LinkedIn:** [Rafael Rezende](www.linkedin.com/in/rafaelrezende2004)  
+🛠️ **Repositório:** [Rafael Rezende](https://github.com/rafa-rez)  
 
