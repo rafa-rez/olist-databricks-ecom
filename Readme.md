@@ -83,8 +83,7 @@ Se quiser contribuir, sinta-se à vontade para abrir um **Pull Request** ou suge
 ## Agradecimentos
 Este projeto foi inspirado em diversas análises de dados já realizadas sobre o dataset. Agradeço à comunidade de **Data Science** e **Big Data** pelo compartilhamento de conhecimentos.
 
----
-📁 **Autor:** Rafael Rezende
-🔗 **LinkedIn:** [Rafael Rezende](www.linkedin.com/in/rafaelrezende2004)  
-🛠️ **Repositório:** [Rafael Rezende](https://github.com/rafa-rez)  
+## 🌐 Redes do Autor
 
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/137515142?v=4" width=115><br><sub>Rafael Alves Silva Rezende</sub>](https://github.com/rafa-rez) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rafaelrezende2004) |
+| :---: | :---: |
